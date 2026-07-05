@@ -1,0 +1,851 @@
+window.CUTOFF_CSV_TEXT = `Sr.No,Round ▲▼,Institute ▲▼,Program ▲▼,Stream ▲▼,Seat Type ▲▼,Quota ▲▼,Category ▲▼,Opening Rank ▲▼,Closing Rank ▲▼
+1,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open (PwD),956,956
+2,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,958,1105
+3,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,922,922
+4,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,765,950
+5,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1496,1496
+6,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,366,749
+7,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,897,954
+8,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1598,1636
+9,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,748,935
+10,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,1474,1474
+11,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,411,554
+12,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,460,502
+13,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,770,770
+14,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,174,404
+15,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,590,618
+16,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,1252,1252
+17,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Leather Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,3369,3369
+18,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Leather Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,2603,2603
+19,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Leather Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,742,2033
+20,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Leather Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2454,3108
+21,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,923,923
+22,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1549,1549
+23,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,230,377
+24,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,585,615
+25,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,4002,4002
+26,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,300,760
+27,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,847,1134
+28,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,934,934
+29,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1008,1008
+30,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,492,725
+31,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1027,1027
+32,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Textile Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2871,4274
+33,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Textile Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,989,2030
+34,Round 1,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Textile Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2555,2732
+35,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,446,446
+36,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,633,633
+37,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,266,315
+38,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,505,722
+39,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,253,253
+40,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,387,387
+41,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,660,660
+42,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,75,245
+43,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,337,473
+44,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",CERAMIC ENGINEERING AND TECHNOLOGY,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1379,1379
+45,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",CERAMIC ENGINEERING AND TECHNOLOGY,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,388,613
+46,Round 1,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",CERAMIC ENGINEERING AND TECHNOLOGY,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1133,1133
+47,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,728,784
+48,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1084,1084
+49,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,476,718
+50,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,990,1296
+51,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,645,645
+52,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,643,643
+53,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,183,338
+54,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open (PwD),1147,1147
+55,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,874,908
+56,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Textile Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2549,2549
+57,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Textile Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,3421,3421
+58,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Textile Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,293,856
+59,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Textile Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open (PwD),2827,2827
+60,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Textile Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1121,1683
+61,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Apparel & Production Management,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,3479,3479
+62,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Apparel & Production Management,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,876,2105
+63,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Apparel & Production Management,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2240,2788
+64,Round 1,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Apparel & Production Management,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,3736,3736
+65,Round 1,"INSTITUTE OF PHARMACY, JALPAIGURI",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,OBC - A,26,26
+66,Round 1,"INSTITUTE OF PHARMACY, JALPAIGURI",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,OBC - B,25,25
+67,Round 1,"INSTITUTE OF PHARMACY, JALPAIGURI",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,EWS,45,45
+68,Round 1,"INSTITUTE OF PHARMACY, JALPAIGURI",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,Open,6,23
+69,Round 1,"INSTITUTE OF PHARMACY, JALPAIGURI",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,SC,35,58
+70,Round 1,"INSTITUTE OF PHARMACY, JALPAIGURI",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,ST,29,29
+71,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,622,831
+72,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,482,482
+73,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,181,334
+74,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,454,528
+75,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,414,452
+76,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,646,646
+77,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,68,182
+78,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,307,328
+79,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,295,295
+80,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,544,544
+81,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,180,244
+82,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,271,323
+83,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,437,448
+84,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1329,1329
+85,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,95,324
+86,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,370,372
+87,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,241,241
+88,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,449,449
+89,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,77,161
+90,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,209,238
+91,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,409,409
+92,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,429,429
+93,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,73,213
+94,Round 1,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,326,341
+95,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,208,248
+96,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,561,561
+97,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,45,149
+98,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,193,218
+99,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,250,279
+100,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,154,154
+101,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,233,233
+102,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,66,143
+103,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,335,390
+104,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,693,1026
+105,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,423,512
+106,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,457,457
+107,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,92,284
+108,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open (PwD),3593,3593
+109,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,302,582
+110,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,1439,1439
+111,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,97,97
+112,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,137,137
+113,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,20,59
+114,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,272,314
+115,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,311,428
+116,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,356,356
+117,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,37,164
+118,Round 1,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,313,463
+119,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,816,997
+120,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,785,786
+121,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1131,1131
+122,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,198,631
+123,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open (PwD),1226,1226
+124,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,705,774
+125,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,1570,1570
+126,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,711,1030
+127,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,644,644
+128,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1102,1102
+129,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,168,553
+130,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,563,744
+131,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,968,968
+132,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1135,2285
+133,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1085,1085
+134,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1939,1939
+135,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,330,930
+136,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1088,1557
+137,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,1497,1497
+138,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,675,766
+139,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,849,849
+140,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,125,593
+141,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,888,1178
+142,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1294,1757
+143,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1161,1161
+144,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1710,1710
+145,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,355,851
+146,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1017,1322
+147,Round 1,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,1663,1663
+148,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,203,1281
+149,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1320,1698
+150,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1500,1500
+151,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1416,1416
+152,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open (PwD),2185,2185
+153,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1312,1450
+154,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,2419,2481
+155,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,560,1479
+156,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2837,2964
+157,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1796,1955
+158,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,3913,3913
+159,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1714,2190
+160,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,2771,2994
+161,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Food Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,252,3091
+162,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Food Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,3860,4632
+163,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Food Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,3292,3883
+164,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Food Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,3266,4324
+165,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Food Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,3278,3279
+166,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Civil And Environmental Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,488,1908
+167,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Civil And Environmental Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2201,2747
+168,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Civil And Environmental Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1989,2359
+169,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Civil And Environmental Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,2360,2360
+170,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Civil And Environmental Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1956,3023
+171,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Civil And Environmental Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,4236,4705
+172,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,439,771
+173,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1115,1115
+174,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1778,1778
+175,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,977,977
+176,Round 1,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,2524,2524
+177,Round 1,"ABACUS INSTITUTE OF ENGINEERING & MANAGEMENT, MOGRA, HOOGHLY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,397,4360
+178,Round 1,"ABACUS INSTITUTE OF ENGINEERING & MANAGEMENT, MOGRA, HOOGHLY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1836,4273
+179,Round 1,"ABACUS INSTITUTE OF ENGINEERING & MANAGEMENT, MOGRA, HOOGHLY",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3297,3399
+180,Round 1,"ABACUS INSTITUTE OF ENGINEERING & MANAGEMENT, MOGRA, HOOGHLY",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2093,4401
+181,Round 1,"ABACUS INSTITUTE OF ENGINEERING & MANAGEMENT, MOGRA, HOOGHLY",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2712,3380
+182,Round 1,"ACADEMY OF TECHNOLOGY, ADISAPTAGRAM, HOOGHLY",Electrical & Electronics Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3358,4198
+183,Round 1,"ACADEMY OF TECHNOLOGY, ADISAPTAGRAM, HOOGHLY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2120,3777
+184,Round 1,"ACADEMY OF TECHNOLOGY, ADISAPTAGRAM, HOOGHLY",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2866,4433
+185,Round 1,"ACADEMY OF TECHNOLOGY, ADISAPTAGRAM, HOOGHLY",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,986,4226
+186,Round 1,"ACADEMY OF TECHNOLOGY, ADISAPTAGRAM, HOOGHLY",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1066,4287
+187,Round 1,"ASANSOL ENGINEERING COLLEGE, ASANSOL, BURDWAN",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3007,4142
+188,Round 1,"ASANSOL ENGINEERING COLLEGE, ASANSOL, BURDWAN",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2969,3444
+189,Round 1,"ASANSOL ENGINEERING COLLEGE, ASANSOL, BURDWAN",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2517,2517
+190,Round 1,"ASANSOL ENGINEERING COLLEGE, ASANSOL, BURDWAN",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2577,4470
+191,Round 1,"ASANSOL ENGINEERING COLLEGE, ASANSOL, BURDWAN",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,812,4642
+192,Round 1,"ASANSOL ENGINEERING COLLEGE, ASANSOL, BURDWAN",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4726,4726
+193,Round 1,"ASANSOL ENGINEERING COLLEGE, ASANSOL, BURDWAN",ELECTRONICS & COMPUTER SCIENCE,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2320,2320
+194,Round 1,"ASANSOL ENGINEERING COLLEGE, ASANSOL, BURDWAN",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3061,3268
+195,Round 1,"B.P. PODDAR INSTITUTE OF MANAGEMENT & TECHNOLOGY, KOLKATA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3315,3315
+196,Round 1,"B.P. PODDAR INSTITUTE OF MANAGEMENT & TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4605,4605
+197,Round 1,"B.P. PODDAR INSTITUTE OF MANAGEMENT & TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2687,4665
+198,Round 1,"BANKURA UNNAYANI INSTITUTE OF ENGINEERING, BANKURA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2139,3976
+199,Round 1,"BANKURA UNNAYANI INSTITUTE OF ENGINEERING, BANKURA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3344,3807
+200,Round 1,"BANKURA UNNAYANI INSTITUTE OF ENGINEERING, BANKURA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3127,3127
+201,Round 1,"BANKURA UNNAYANI INSTITUTE OF ENGINEERING, BANKURA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2584,2584
+202,Round 1,"BANKURA UNNAYANI INSTITUTE OF ENGINEERING, BANKURA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3216,4528
+203,Round 1,"BCDA COLLEGE OF PHARMACY & TECHNOLOGY, HRIDAYPUR, MADHYAMGRAM",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,60,197
+204,Round 1,"BENGAL COLLEGE OF ENGINEERING & TECHNOLOGY, DURGAPUR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3590,3608
+205,Round 1,"BENGAL COLLEGE OF ENGINEERING & TECHNOLOGY, DURGAPUR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2403,2403
+206,Round 1,"BENGAL COLLEGE OF ENGINEERING & TECHNOLOGY, DURGAPUR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1511,4696
+207,Round 1,"BENGAL COLLEGE OF ENGINEERING & TECHNOLOGY, DURGAPUR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4660,4660
+208,Round 1,"BENGAL COLLEGE OF PHARMACEUTICAL SCIENCE & RESEARCH, DURGAPUR",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,158,579
+209,Round 1,"BENGAL INSTITUTE OF TECHNOLOGY & MANAGEMENT, SANTINIKETAN",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2921,2921
+210,Round 1,"BENGAL INSTITUTE OF TECHNOLOGY & MANAGEMENT, SANTINIKETAN",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3927,3927
+211,Round 1,"BENGAL INSTITUTE OF TECHNOLOGY & MANAGEMENT, SANTINIKETAN",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2755,2755
+212,Round 1,"BENGAL INSTITUTE OF TECHNOLOGY & MANAGEMENT, SANTINIKETAN",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,517,729
+213,Round 1,"BENGAL SCHOOL OF TECHNOLOGY, SUGANDHA, HOOGHLY",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,34,212
+214,Round 1,"BENGAL SCHOOL OF TECHNOLOGY, SUGANDHA, HOOGHLY",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,OBC - A,498,498
+215,Round 1,"BHARAT TECHNOLOGY, ULUBERIA, HOWRAH",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,169,566
+216,Round 1,"BIRBHUM INSTITUTE OF ENGINEERING & TECHNOLOGY, SURI, BIRBHUM",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1358,1575
+217,Round 1,"BIRBHUM INSTITUTE OF ENGINEERING & TECHNOLOGY, SURI, BIRBHUM",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3792,4618
+218,Round 1,"BUDGE BUDGE INSTITUTE OF TECHNOLOGY, BUDGE-BUDGE",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3379,3379
+219,Round 1,"BUDGE BUDGE INSTITUTE OF TECHNOLOGY, BUDGE-BUDGE",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4232,4232
+220,Round 1,"BUDGE BUDGE INSTITUTE OF TECHNOLOGY, BUDGE-BUDGE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1975,3772
+221,Round 1,"BUDGE BUDGE INSTITUTE OF TECHNOLOGY, BUDGE-BUDGE",Computer Science & Engineering (Artificial Intelligence),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2070,2070
+222,Round 1,"CALCUTTA INSTITUTE OF ENGINEERING & MANAGEMENT, TOLLYGUNGE, KOLKATA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1983,1983
+223,Round 1,"CALCUTTA INSTITUTE OF ENGINEERING & MANAGEMENT, TOLLYGUNGE, KOLKATA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,537,4009
+224,Round 1,"CALCUTTA INSTITUTE OF ENGINEERING & MANAGEMENT, TOLLYGUNGE, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,833,2996
+225,Round 1,"CALCUTTA INSTITUTE OF ENGINEERING & MANAGEMENT, TOLLYGUNGE, KOLKATA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3254,3254
+226,Round 1,"CALCUTTA INSTITUTE OF PHARMACEUTICAL TECH. & ALLIED HEALTH SCIENCES, ULUBERIA",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,51,462
+227,Round 1,"CALCUTTA INSTITUTE OF TECHNOLOGY, ULUBERIA, HOWRAH",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1886,3040
+228,Round 1,"CALCUTTA INSTITUTE OF TECHNOLOGY, ULUBERIA, HOWRAH",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2214,2214
+229,Round 1,"CALCUTTA INSTITUTE OF TECHNOLOGY, ULUBERIA, HOWRAH",Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2780,4700
+230,Round 1,"CALCUTTA INSTITUTE OF TECHNOLOGY, ULUBERIA, HOWRAH",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2036,3890
+231,Round 1,"CAMELLIA INSTITUTE OF ENGINEERING AND TECHNOLOGY, BUD BUD, BURDWAN",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2052,4201
+232,Round 1,"CAMELLIA INSTITUTE OF ENGINEERING AND TECHNOLOGY, BUD BUD, BURDWAN",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,464,3570
+233,Round 1,"CAMELLIA INSTITUTE OF ENGINEERING AND TECHNOLOGY, BUD BUD, BURDWAN",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4143,4435
+234,Round 1,"CAMELLIA INSTITUTE OF TECHNOLOGY & MANAGEMENT, BAINCHI, HOOGHLY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3946,3946
+235,Round 1,"CAMELLIA INSTITUTE OF TECHNOLOGY, BADU ROAD, MADHYAMGRAM",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2421,2421
+236,Round 1,"CAMELLIA SCHOOL OF ENGINEERING & TECHNOLOGY, BARASAT",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3060,4163
+237,Round 1,"CAMELLIA SCHOOL OF ENGINEERING & TECHNOLOGY, BARASAT",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4101,4101
+238,Round 1,"COLLEGE OF ENGINEERING AND MANAGEMENT, KOLAGHAT",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1855,4262
+239,Round 1,"COLLEGE OF ENGINEERING AND MANAGEMENT, KOLAGHAT",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1776,1776
+240,Round 1,"COLLEGE OF ENGINEERING AND MANAGEMENT, KOLAGHAT",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1160,4691
+241,Round 1,"COLLEGE OF ENGINEERING AND MANAGEMENT, KOLAGHAT",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3760,4157
+242,Round 1,"DR. B. C. ROY COLLEGE OF PHARMACY AND ALLIED HEALTH SCIENCES, DURGAPUR",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,49,332
+243,Round 1,"DR. B. C. ROY ENGINEERING COLLEGE, DURGAPUR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2395,3671
+244,Round 1,"DR. B. C. ROY ENGINEERING COLLEGE, DURGAPUR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2355,2355
+245,Round 1,"DR. B. C. ROY ENGINEERING COLLEGE, DURGAPUR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3604,4351
+246,Round 1,"DR. B. C. ROY ENGINEERING COLLEGE, DURGAPUR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2308,4546
+247,Round 1,"DR. B. C. ROY ENGINEERING COLLEGE, DURGAPUR",Computer Science & Engineering (Cyber Security),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1067,1067
+248,Round 1,"DR. B. C. ROY ENGINEERING COLLEGE, DURGAPUR",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4025,4415
+249,Round 1,"DR.SUDHIR CHANDRA SUR INSTITUTE OF TECHNOLOGY AND SPORTS COMPLEX, DUM DUM",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1736,1736
+250,Round 1,"DR.SUDHIR CHANDRA SUR INSTITUTE OF TECHNOLOGY AND SPORTS COMPLEX, DUM DUM",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1718,3716
+251,Round 1,"DR.SUDHIR CHANDRA SUR INSTITUTE OF TECHNOLOGY AND SPORTS COMPLEX, DUM DUM",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3440,4282
+252,Round 1,"DUMKAL INSTITUTE OF ENGINEERING & TECHNOLOGY, DUMKAL, MURSHIDABAD",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2423,2423
+253,Round 1,"DUMKAL INSTITUTE OF ENGINEERING & TECHNOLOGY, DUMKAL, MURSHIDABAD",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1556,3776
+254,Round 1,"DURGAPUR INSTITUTE OF ADVANCED TECHNOLOGY & MANAGEMENT, DURGAPUR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,408,4666
+255,Round 1,"ELITTE COLLEGE OF ENGINEERING,MAHISPOTA, SODEPUR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,919,919
+256,Round 1,"ELITTE COLLEGE OF ENGINEERING,MAHISPOTA, SODEPUR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4159,4159
+257,Round 1,"ELITTE COLLEGE OF ENGINEERING,MAHISPOTA, SODEPUR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3000,3247
+258,Round 1,"FUTURE INSTITUTE OF ENGINEERING & MANAGEMENT, SONARPUR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2242,3074
+259,Round 1,"FUTURE INSTITUTE OF ENGINEERING & MANAGEMENT, SONARPUR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2554,4599
+260,Round 1,"FUTURE INSTITUTE OF TECHNOLOGY, BORAL, GARIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3460,3460
+261,Round 1,"GARGI MEMORIAL INSTITUTE OF TECHNOLOGY, BARUIPUR, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2582,3043
+262,Round 1,"GLOBAL INSTITUTE OF MANAGEMENT AND TECHNOLOGY, KRISHNANAGAR, NADIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,668,4428
+263,Round 1,"GLOBAL INSTITUTE OF MANAGEMENT AND TECHNOLOGY, KRISHNANAGAR, NADIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,153,1835
+264,Round 1,"GLOBAL INSTITUTE OF MANAGEMENT AND TECHNOLOGY, KRISHNANAGAR, NADIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2571,4552
+265,Round 1,"GREATER KOLKATA COLLEGE OF ENGINEERING & MANAGEMENT, BARUIPUR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3921,3921
+266,Round 1,"GUPTA COLLEGE OF TECHNOLOGICAL SCIENCES, ASANSOL, BURDWAN",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,36,315
+267,Round 1,"GUPTA COLLEGE OF TECHNOLOGICAL SCIENCES, ASANSOL, BURDWAN",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,EWS,413,413
+268,Round 1,"GURU NANAK INSTITUTE OF PHARMACEUTICAL SCIENCE AND TECHNOLOGY, SODEPUR",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,41,251
+269,Round 1,"GURU NANAK INSTITUTE OF TECHNOLOGY, PANIHATI, SODEPUR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,755,3767
+270,Round 1,"GURU NANAK INSTITUTE OF TECHNOLOGY, PANIHATI, SODEPUR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1410,4676
+271,Round 1,"GURU NANAK INSTITUTE OF TECHNOLOGY, PANIHATI, SODEPUR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1566,4411
+272,Round 1,"GURU NANAK INSTITUTE OF TECHNOLOGY, PANIHATI, SODEPUR",Food Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1617,4714
+273,Round 1,"GURU NANAK INSTITUTE OF TECHNOLOGY, PANIHATI, SODEPUR",Computer Science & Engineering (Cyber Security),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3575,4476
+274,Round 1,"GURU NANAK INSTITUTE OF TECHNOLOGY, PANIHATI, SODEPUR",ELECTRONICS & COMPUTER SCIENCE,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3277,3277
+275,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1677,4440
+276,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,196,1940
+277,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1954,4263
+278,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,485,3672
+279,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,781,2764
+280,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,242,1774
+281,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,4581,4581
+282,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,648,4540
+283,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Biotechnology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3577,3577
+284,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Food Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2350,3954
+285,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Computer Science & Engineering (Cyber Security),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1837,4622
+286,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2383,4633
+287,Round 1,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Computer Science & Engineering (Data Science),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1261,4719
+288,Round 1,"HEMNALINI MEMORIAL COLLEGE OF ENGINEERING, HARINGHATA",Food Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4391,4391
+289,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,994,4514
+290,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,345,2159
+291,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1619,2045
+292,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,2954,2954
+293,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,568,3828
+294,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,410,4739
+295,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,360,1457
+296,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1459,1740
+297,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,700,4683
+298,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Applied Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2414,4556
+299,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,680,1611
+300,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,4506,4506
+301,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Computer Science & Engineering (Data Science),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2049,3137
+302,Round 1,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Computer Science & Engineering (Internet Of Things And Cyber Security Including Block Chain Technology),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2073,4670
+303,Round 1,"HOOGHLY ENGINEERING & TECHNOLOGY COLLEGE, HOOGHLY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1191,4579
+304,Round 1,"HOOGHLY ENGINEERING & TECHNOLOGY COLLEGE, HOOGHLY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,140,4597
+305,Round 1,"HOOGHLY ENGINEERING & TECHNOLOGY COLLEGE, HOOGHLY",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2021,4310
+306,Round 1,"HOOGHLY ENGINEERING & TECHNOLOGY COLLEGE, HOOGHLY",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,686,4173
+307,Round 1,"HOOGHLY ENGINEERING & TECHNOLOGY COLLEGE, HOOGHLY",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1668,4277
+308,Round 1,"IDEAL INSTITUTE OF ENGINEERING, KALYANI",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1352,2918
+309,Round 1,"IDEAL INSTITUTE OF ENGINEERING, KALYANI",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1531,4451
+310,Round 1,"IDEAL INSTITUTE OF ENGINEERING, KALYANI",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3425,3425
+311,Round 1,"IDEAL INSTITUTE OF ENGINEERING, KALYANI",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2427,4337
+312,Round 1,"IMPS COLLEGE OF ENGINEERING & TECHNOLOGY, MALDA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1786,3132
+313,Round 1,"IMPS COLLEGE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2338,2652
+314,Round 1,"IMPS COLLEGE OF ENGINEERING & TECHNOLOGY, MALDA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1694,1694
+315,Round 1,"INSTITUTE OF SCIENCE AND TECHNOLOGY, PASCHIM MEDINIPUR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2763,2813
+316,Round 1,"INSTITUTE OF SCIENCE AND TECHNOLOGY, PASCHIM MEDINIPUR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3874,3940
+317,Round 1,"INSTITUTE OF SCIENCE AND TECHNOLOGY, PASCHIM MEDINIPUR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2103,2103
+318,Round 1,"INSTITUTE OF SCIENCE AND TECHNOLOGY, PASCHIM MEDINIPUR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2616,4481
+319,Round 1,"INSTITUTE OF SCIENCE AND TECHNOLOGY, PASCHIM MEDINIPUR",Applied Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3267,3267
+320,Round 1,"JIS COLLEGE OF ENGINEERING, KALYANI, NADIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,854,3816
+321,Round 1,"JIS COLLEGE OF ENGINEERING, KALYANI, NADIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1415,4608
+322,Round 1,"JIS COLLEGE OF ENGINEERING, KALYANI, NADIA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4570,4570
+323,Round 1,"JIS COLLEGE OF ENGINEERING, KALYANI, NADIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3398,4359
+324,Round 1,"JIS COLLEGE OF ENGINEERING, KALYANI, NADIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,301,4417
+325,Round 1,"JIS COLLEGE OF ENGINEERING, KALYANI, NADIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1490,1490
+326,Round 1,"JIS COLLEGE OF ENGINEERING, KALYANI, NADIA",Computer Science & Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3246,3246
+327,Round 1,"JIS COLLEGE OF ENGINEERING, KALYANI, NADIA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,562,2371
+328,Round 1,"MALLABHUM INSTITUTE OF TECHNOLOGY, BISHNUPUR, BANKURA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2602,4651
+329,Round 1,"MALLABHUM INSTITUTE OF TECHNOLOGY, BISHNUPUR, BANKURA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3205,3205
+330,Round 1,"MALLABHUM INSTITUTE OF TECHNOLOGY, BISHNUPUR, BANKURA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,971,1739
+331,Round 1,"MCKV INSTITUTE OF ENGINEERING, LILUAH, HOWRAH",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1586,2491
+332,Round 1,"MCKV INSTITUTE OF ENGINEERING, LILUAH, HOWRAH",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2044,4717
+333,Round 1,"MCKV INSTITUTE OF ENGINEERING, LILUAH, HOWRAH",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2734,2734
+334,Round 1,"MCKV INSTITUTE OF ENGINEERING, LILUAH, HOWRAH",Automobile Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3982,3982
+335,Round 1,"MCKV INSTITUTE OF ENGINEERING, LILUAH, HOWRAH",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,487,4020
+336,Round 1,"MCKV INSTITUTE OF ENGINEERING, LILUAH, HOWRAH",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,261,261
+337,Round 1,"MCKV INSTITUTE OF ENGINEERING, LILUAH, HOWRAH",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,516,4325
+338,Round 1,"MCKV INSTITUTE OF ENGINEERING, LILUAH, HOWRAH",Computer Science & Engineering (Data Science),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,605,4585
+339,Round 1,"MEGHNAD SAHA INSTITUTE OF TECHNOLOGY, KOLKATA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3290,3945
+340,Round 1,"MEGHNAD SAHA INSTITUTE OF TECHNOLOGY, KOLKATA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3752,4270
+341,Round 1,"MEGHNAD SAHA INSTITUTE OF TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1381,4309
+342,Round 1,"MEGHNAD SAHA INSTITUTE OF TECHNOLOGY, KOLKATA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3224,4365
+343,Round 1,"MEGHNAD SAHA INSTITUTE OF TECHNOLOGY, KOLKATA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2534,2534
+344,Round 1,"MURSHIDABAD COLLEGE OF ENGINEERING & TECHNOLOGY, MURSHIDABAD",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2700,2700
+345,Round 1,"MURSHIDABAD COLLEGE OF ENGINEERING & TECHNOLOGY, MURSHIDABAD",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3067,3067
+346,Round 1,"MURSHIDABAD COLLEGE OF ENGINEERING & TECHNOLOGY, MURSHIDABAD",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1915,3728
+347,Round 1,"NARULA INSTITUTE OF TECHNOLOGY, AGARPARA, KOLKATA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4483,4483
+348,Round 1,"NARULA INSTITUTE OF TECHNOLOGY, AGARPARA, KOLKATA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,427,2059
+349,Round 1,"NARULA INSTITUTE OF TECHNOLOGY, AGARPARA, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1177,4450
+350,Round 1,"NARULA INSTITUTE OF TECHNOLOGY, AGARPARA, KOLKATA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3673,4656
+351,Round 1,"NARULA INSTITUTE OF TECHNOLOGY, AGARPARA, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1047,2875
+352,Round 1,"NARULA INSTITUTE OF TECHNOLOGY, AGARPARA, KOLKATA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1162,4562
+353,Round 1,"NARULA INSTITUTE OF TECHNOLOGY, AGARPARA, KOLKATA",Computer Science & Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3150,4381
+354,Round 1,"NARULA INSTITUTE OF TECHNOLOGY, AGARPARA, KOLKATA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1981,4095
+355,Round 1,"NARULA INSTITUTE OF TECHNOLOGY, AGARPARA, KOLKATA",Computer Science & Engineering (Data Science),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2114,3878
+356,Round 1,"NETAJI SUBHAS ENGINEERING COLLEGE, GARIA, KOLKATA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,741,2932
+357,Round 1,"NETAJI SUBHAS ENGINEERING COLLEGE, GARIA, KOLKATA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2407,4452
+358,Round 1,"NETAJI SUBHAS ENGINEERING COLLEGE, GARIA, KOLKATA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4094,4094
+359,Round 1,"NETAJI SUBHAS ENGINEERING COLLEGE, GARIA, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1644,4606
+360,Round 1,"NETAJI SUBHAS ENGINEERING COLLEGE, GARIA, KOLKATA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,211,2842
+361,Round 1,"NETAJI SUBHAS ENGINEERING COLLEGE, GARIA, KOLKATA",Computer Science & Engineering (Cyber Security),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3001,3001
+362,Round 1,"NETAJI SUBHAS ENGINEERING COLLEGE, GARIA, KOLKATA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,813,1403
+363,Round 1,"NETAJI SUBHASH CHANDRA BOSE INSTITUTE OF PHARMACY ,CHAKDAH, NADIA",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,107,634
+364,Round 1,"NSHM KNOWLEDGE CAMPUS, DURGAPUR GROUP OF INSTITUTIONS",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2468,2468
+365,Round 1,"NSHM KNOWLEDGE CAMPUS, KOLKATA GROUP OF INSTITUTIONS, KOLKATA",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,40,477
+366,Round 1,"OM DAYAL GROUP OF INSTITUTIONS, ULUBERIA, HOWRAH",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4399,4399
+367,Round 1,"RCC INSTITUTE OF INFORMATION TECHNOLOGY, KOLKATA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2195,2195
+368,Round 1,"RCC INSTITUTE OF INFORMATION TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3034,3034
+369,Round 1,"RCC INSTITUTE OF INFORMATION TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1475,4652
+370,Round 1,"RCC INSTITUTE OF INFORMATION TECHNOLOGY, KOLKATA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2128,2128
+371,Round 1,"RCC INSTITUTE OF INFORMATION TECHNOLOGY, KOLKATA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3894,3894
+372,Round 1,"REGENT EDUCATION AND RESEARCH FOUNDATION, BARASAT, KOLKATA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3225,3225
+373,Round 1,"REGENT EDUCATION AND RESEARCH FOUNDATION, BARASAT, KOLKATA",Electrical & Electronics Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4238,4238
+374,Round 1,"REGENT EDUCATION AND RESEARCH FOUNDATION, BARASAT, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3309,3404
+375,Round 1,"SANAKA EDUCATION TRUSTS GROUP OF INSTITUTIONS, DURGAPUR, BURDWAN",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2352,3941
+376,Round 1,"SANAKA EDUCATION TRUSTS GROUP OF INSTITUTIONS, DURGAPUR, BURDWAN",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1688,3417
+377,Round 1,"SANAKA EDUCATION TRUSTS GROUP OF INSTITUTIONS, DURGAPUR, BURDWAN",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1525,4610
+378,Round 1,"SANAKA EDUCATION TRUSTS GROUP OF INSTITUTIONS, DURGAPUR, BURDWAN",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3697,3697
+379,Round 1,"SANAKA EDUCATION TRUSTS GROUP OF INSTITUTIONS, DURGAPUR, BURDWAN",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,159,594
+380,Round 1,"SEACOM ENGINEERING COLLEGE, SANKRAIL, HOWRAH",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3853,3853
+381,Round 1,"SEACOM ENGINEERING COLLEGE, SANKRAIL, HOWRAH",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2005,2005
+382,Round 1,"SEACOM ENGINEERING COLLEGE, SANKRAIL, HOWRAH",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2151,2151
+383,Round 1,"SILIGURI INSTITUTE OF TECHNOLOGY, SILIGURI",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1210,4647
+384,Round 1,"SILIGURI INSTITUTE OF TECHNOLOGY, SILIGURI",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1995,4635
+385,Round 1,"SILIGURI INSTITUTE OF TECHNOLOGY, SILIGURI",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,647,4407
+386,Round 1,"SILIGURI INSTITUTE OF TECHNOLOGY, SILIGURI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,510,4471
+387,Round 1,"SILIGURI INSTITUTE OF TECHNOLOGY, SILIGURI",ELECTRONICS & COMPUTER SCIENCE,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2926,2926
+388,Round 1,"SILIGURI INSTITUTE OF TECHNOLOGY, SILIGURI",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4053,4053
+389,Round 1,"ST. THOMAS COLLEGE OF ENGINEERING & TECHNOLOGY, KHIDIRPUR, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2506,2506
+390,Round 1,"ST. THOMAS COLLEGE OF ENGINEERING & TECHNOLOGY, KHIDIRPUR, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1882,3947
+391,Round 1,"ST. THOMAS COLLEGE OF ENGINEERING & TECHNOLOGY, KHIDIRPUR, KOLKATA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,955,4494
+392,Round 1,"ST. THOMAS COLLEGE OF ENGINEERING & TECHNOLOGY, KHIDIRPUR, KOLKATA",Artificial Intelligence And Machine Learning,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2326,2326
+393,Round 1,"SWAMI VIVEKANANDA INSTITUTE OF SCIENCE & TECHNOLOGY, SONARPUR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2129,2129
+394,Round 1,"SWAMI VIVEKANANDA INSTITUTE OF SCIENCE & TECHNOLOGY, SONARPUR",Electrical & Electronics Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1231,1231
+395,Round 1,"SWAMI VIVEKANANDA INSTITUTE OF SCIENCE & TECHNOLOGY, SONARPUR",Artificial Intelligence And Data Science,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3446,4056
+396,Round 1,TECHNO INTERNATIONAL BATANAGAR,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3465,3693
+397,Round 1,"TECHNO INTERNATIONAL NEW TOWN, RAJARHAT, NEW TOWN",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,857,4586
+398,Round 1,"TECHNO INTERNATIONAL NEW TOWN, RAJARHAT, NEW TOWN",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4418,4418
+399,Round 1,"TECHNO INTERNATIONAL NEW TOWN, RAJARHAT, NEW TOWN",COMPUTER SCIENCE & ENGINEERING (INTERNET OF THINGS),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2682,2682
+400,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1615,4306
+401,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,385,4637
+402,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1404,3789
+403,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1256,3847
+404,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,109,486
+405,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open (PwD),1785,1785
+406,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,846,1117
+407,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,891,891
+408,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,342,619
+409,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,625,629
+410,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,541,751
+411,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,623,623
+412,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1076,1076
+413,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,531,669
+414,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,806,806
+415,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1167,1452
+416,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,925,925
+417,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,940,940
+418,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,336,917
+419,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,976,976
+420,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1427,1427
+421,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,278,842
+422,Round 1,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,920,1198
+423,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,614,614
+424,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,616,616
+425,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1059,1059
+426,Round 1,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,316,536
+427,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,325,1310
+428,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,4093,4093
+429,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1727,3580
+430,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2629,4516
+431,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Food Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,710,3052
+432,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Computer Science & Engineering (Cyber Security),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2232,3720
+433,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",ELECTRONICS & COMPUTER SCIENCE,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1516,1516
+434,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,521,3806
+435,Round 1,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Computer Science & Engineering (Data Science),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3832,4345
+436,Round 1,"BIRBHUM PHARMACY SCHOOL, HETAMPUR, BIRBHUM",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,196,550
+437,Round 1,"EMINENT COLLEGE OF PHARMACEUTICAL TECHNOLOGY, BARASAT",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,423,479
+438,Round 1,"GLOBAL COLLEGE OF PHARMACEUTICAL TECHNOLOGY, KRISHNANAGAR",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,406,623
+439,Round 1,"P.G. INSTITUTE OF MEDICAL SCIENCES, CHANDRAKONA",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,79,103
+440,Round 1,"ADAMAS UNIVERSITY, BARASAT",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1840,1840
+441,Round 1,"ADAMAS UNIVERSITY, BARASAT",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,302,556
+442,Round 1,"SCHOOL OF PHARMACY, TECHNO INDIA UNIVERSITY, SALT LAKE",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,121,388
+443,Round 1,"TECHNO INDIA UNIVERSITY, SALT LAKE",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2703,4413
+444,Round 1,"TECHNO INDIA UNIVERSITY, SALT LAKE",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1521,3925
+445,Round 1,"TECHNO INDIA UNIVERSITY, SALT LAKE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1590,4558
+446,Round 1,"TECHNO INDIA UNIVERSITY, SALT LAKE",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2174,3423
+447,Round 1,"TECHNO INDIA UNIVERSITY, SALT LAKE",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1025,4405
+448,Round 1,"SISTER NIVEDITA UNIVERSITY, NEW TOWN",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,719,719
+449,Round 1,"SISTER NIVEDITA UNIVERSITY, NEW TOWN",COMPUTER SCIENCE AND INFORMATION TECHNOLOGY,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3818,3818
+450,Round 1,"BIDHAN CHANDRA KRISHI VISWA VIDYALAYA, MOHANPUR, NADIA",Agricultural Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,905,1372
+451,Round 1,"BIDHAN CHANDRA KRISHI VISWA VIDYALAYA, MOHANPUR, NADIA",Agricultural Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,3059,3711
+452,Round 1,"BIDHAN CHANDRA KRISHI VISWA VIDYALAYA, MOHANPUR, NADIA",Agricultural Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,2312,2312
+453,Round 1,"BIDHAN CHANDRA KRISHI VISWA VIDYALAYA, MOHANPUR, NADIA",Agricultural Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1704,1724
+454,Round 1,"BIDHAN CHANDRA KRISHI VISWA VIDYALAYA, MOHANPUR, NADIA",Agricultural Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,3194,3194
+455,Round 1,Jadavpur University,Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,190,190
+456,Round 1,Jadavpur University,Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,178,178
+457,Round 1,Jadavpur University,Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,417,417
+458,Round 1,Jadavpur University,Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,83,144
+459,Round 1,Jadavpur University,Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,197,431
+460,Round 1,Jadavpur University,Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,519,519
+461,Round 1,Jadavpur University,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,42,42
+462,Round 1,Jadavpur University,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,44,44
+463,Round 1,Jadavpur University,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,70,70
+464,Round 1,Jadavpur University,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,4,38
+465,Round 1,Jadavpur University,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,64,147
+466,Round 1,Jadavpur University,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,860,860
+467,Round 1,Jadavpur University,Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,35,35
+468,Round 1,Jadavpur University,Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,25,25
+469,Round 1,Jadavpur University,Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,52,52
+470,Round 1,Jadavpur University,Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,10,18
+471,Round 1,Jadavpur University,Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,81,93
+472,Round 1,Jadavpur University,Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,80,80
+473,Round 1,Jadavpur University,Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,62,62
+474,Round 1,Jadavpur University,Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,384,384
+475,Round 1,Jadavpur University,Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,19,61
+476,Round 1,Jadavpur University,Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,71,207
+477,Round 1,Jadavpur University,Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,350,350
+478,Round 1,Jadavpur University,Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,166,166
+479,Round 1,Jadavpur University,Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,139,139
+480,Round 1,Jadavpur University,Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,249,249
+481,Round 1,Jadavpur University,Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,47,114
+482,Round 1,Jadavpur University,Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,297,382
+483,Round 1,Jadavpur University,Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,1390,1390
+484,Round 1,Jadavpur University,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,21,21
+485,Round 1,Jadavpur University,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,24,24
+486,Round 1,Jadavpur University,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,26,26
+487,Round 1,Jadavpur University,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,3,9
+488,Round 1,Jadavpur University,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,34,69
+489,Round 1,Jadavpur University,Production Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,189,189
+490,Round 1,Jadavpur University,Production Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,287,287
+491,Round 1,Jadavpur University,Production Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,72,121
+492,Round 1,Jadavpur University,Production Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,280,280
+493,Round 1,Jadavpur University,Metallurgical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,96,150
+494,Round 1,Jadavpur University,Metallurgical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,524,524
+495,Round 1,Jadavpur University,Power Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,179,179
+496,Round 1,Jadavpur University,Power Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,392,392
+497,Round 1,Jadavpur University,Power Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,58,65
+498,Round 1,Jadavpur University,Power Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,288,288
+499,Round 1,Jadavpur University,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,OBC - A,5,5
+500,Round 1,Jadavpur University,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,EWS,15,15
+501,Round 1,Jadavpur University,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,Open,1,4
+502,Round 1,Jadavpur University,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,SC,9,9
+503,Round 1,Jadavpur University,Construction Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,215,215
+504,Round 1,Jadavpur University,Construction Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,777,777
+505,Round 1,Jadavpur University,Construction Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,170,201
+506,Round 1,Jadavpur University,Construction Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,525,525
+507,Round 1,Jadavpur University,Food Technology And Bio Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,128,194
+508,Round 1,Jadavpur University,Food Technology And Bio Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,559,559
+509,Round 1,Jadavpur University,Electronics & Tele-Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,33,33
+510,Round 1,Jadavpur University,Electronics & Tele-Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,48,48
+511,Round 1,Jadavpur University,Electronics & Tele-Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,90,90
+512,Round 1,Jadavpur University,Electronics & Tele-Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,8,32
+513,Round 1,Jadavpur University,Electronics & Tele-Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,100,130
+514,Round 1,Jadavpur University,Instrumentation & Electronics,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,54,54
+515,Round 1,Jadavpur University,Instrumentation & Electronics,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,200,200
+516,Round 1,Jadavpur University,Instrumentation & Electronics,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,29,46
+517,Round 1,Jadavpur University,Instrumentation & Electronics,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,107,107
+518,Round 1,Jadavpur University,PRINTING ENGINEERING,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,133,220
+519,Round 1,Jadavpur University,PRINTING ENGINEERING,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,375,375
+520,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,679,933
+521,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1353,1551
+522,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1016,1016
+523,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,3364,3364
+524,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1331,1681
+525,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,2181,2181
+526,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,296,604
+527,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1253,1266
+528,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,855,855
+529,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1946,1946
+530,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,826,1293
+531,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,1357,1357
+532,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,225,1297
+533,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1558,2301
+534,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1425,1425
+535,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,4718,4718
+536,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open (PwD),2349,2349
+537,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1737,2802
+538,Round 1,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,2884,2884
+539,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,346,1207
+540,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2040,2334
+541,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1314,1314
+542,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1866,1866
+543,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1317,1702
+544,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,2433,2433
+545,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,162,1384
+546,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1592,1606
+547,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1434,1434
+548,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1905,1905
+549,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1567,1596
+550,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,2075,2075
+551,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,952,1168
+552,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1684,1684
+553,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,3980,3980
+554,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1412,1412
+555,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,571,835
+556,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1327,1327
+557,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,2203,2203
+558,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1366,1366
+559,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,237,1405
+560,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1889,1889
+561,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1514,1514
+562,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Applied Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,706,2246
+563,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Applied Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2903,3702
+564,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Applied Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,2344,2344
+565,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Applied Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2585,3602
+566,Round 1,UNIVERSITY OF CALCUTTA,Jute & Fibre Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,895,2456
+567,Round 1,UNIVERSITY OF CALCUTTA,Jute & Fibre Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2738,3734
+568,Round 1,UNIVERSITY OF CALCUTTA,Jute & Fibre Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,3046,3046
+569,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,584,703
+570,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1935,1935
+571,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1193,1193
+572,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,228,655
+573,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1890,1890
+574,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,848,1096
+575,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,177,224
+576,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,578,578
+577,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,628,628
+578,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,374,501
+579,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,708,708
+580,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,768,768
+581,Round 1,"FACULTY OF TECHNOLOGY, UTTAR BANGA KRISHI VISWAVIDYALAYA",Agricultural Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,673,1773
+582,Round 1,"FACULTY OF TECHNOLOGY, UTTAR BANGA KRISHI VISWAVIDYALAYA",Agricultural Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,2509,2509
+583,Round 1,"FACULTY OF TECHNOLOGY, UTTAR BANGA KRISHI VISWAVIDYALAYA",Agricultural Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2218,2329
+584,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Mining Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,159,716
+585,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Mining Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2069,2069
+586,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Mining Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1464,1464
+587,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Mining Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1235,2067
+588,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Metallurgical And Materials Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,724,1658
+589,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Metallurgical And Materials Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2746,2746
+590,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Metallurgical And Materials Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,2613,2613
+591,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Metallurgical And Materials Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,4587,4587
+592,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Metallurgical And Materials Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2220,2910
+593,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Computer Science & Engineering (Data Science),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1034,1392
+594,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Computer Science & Engineering (Data Science),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,3203,3203
+595,Round 1,"KAJI NAZRUL UNIVERSITY, ASANSOL",Computer Science & Engineering (Data Science),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1708,1708
+596,Round 1,SWAMI VIVEKANANDA UNIVERSITY,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2284,2284
+597,Round 1,SWAMI VIVEKANANDA UNIVERSITY,Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4254,4254
+598,Round 1,SWAMI VIVEKANANDA UNIVERSITY,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,714,4721
+599,Round 1,SWAMI VIVEKANANDA UNIVERSITY,Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2513,4114
+600,Round 1,SWAMI VIVEKANANDA UNIVERSITY,Data Science,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1806,1806
+601,Round 1,"ANAND COLLEGE OF EDUCATION, DEBRA, PASCHIM MEDINIPUR",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,256,620
+602,Round 1,"GITANJALI COLLEGE OF PHARMACY, LOHAPUR, BIRBHUM",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,268,521
+603,Round 1,"HALDIA INSTITUTE OF PHARMACY, HALDIA",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,28,390
+604,Round 1,"HALDIA INSTITUTE OF PHARMACY, HALDIA",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,EWS,495,495
+605,Round 1,"M.R. COLLGE OF PHARMACEITICAL SCIENCE AND RESEARCH, BIRA, ASHOKNAGAR",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,608,608
+606,Round 1,"DMBH INSTITUTE OF MEDICAL SCIENCE, HOOGHLY",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,228,625
+607,Round 1,SEACOM PHARMACY COLLEGE,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,72,601
+608,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1535,1535
+609,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,2959,2959
+610,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,415,776
+611,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,901,946
+612,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1885,1885
+613,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,783,807
+614,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1305,1305
+615,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1669,1669
+616,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,3020,3020
+617,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,916,1095
+618,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1225,1254
+619,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,ARTIFICIAL INTELLIGENCE (AI),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1999,1999
+620,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,ARTIFICIAL INTELLIGENCE (AI),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,844,1021
+621,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,ARTIFICIAL INTELLIGENCE (AI),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1184,1184
+622,Round 1,"BCDA COLLEGE OF PHARMACY & TECHNOLOGY, CAMPUS-2",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,61,325
+623,Round 1,EAST WEST EDUCATION INSTITUTE,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,468,570
+624,Round 1,FLEMMING COLLEGE OF PHARMACY,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,63,552
+625,Round 1,JAKIR HOSSAIN INSTITUTE OF PHARMACY,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,613,629
+626,Round 1,PANDAVESWAR SCHOOL OF PHARMACY,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,113,540
+627,Round 1,RASHBEHARI PHARMACEUTICAL INSTITUTE,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,31,635
+628,Round 1,"NSHM INSTITUTE OF PHARMACEUTICAL TECHNOLOGY, DURGAPUR",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,528,528
+629,Round 1,DEROZIO PHARMA INSTITUTE,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,27,616
+630,Round 1,BELARANI INSTITUTE OF MEDICAL SCIENCE,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,73,488
+631,Round 1,RANGAMATI COLLEGE OF PHARMACY,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,24,574
+632,Round 1,SKM INSTITUTE OF PHARMACEUTICAL SCIENCES AND RESEARCH,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,127,632
+633,Round 1,TECHNO BENGAL INSTITUTE OF TECHNOLOGY,Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1065,1065
+634,Round 1,TECHNO BENGAL INSTITUTE OF TECHNOLOGY,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1605,1605
+635,Round 1,TECHNO INSTITUTE OF ENGINEERING AND MANAGEMENT,Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2767,2767
+636,Round 1,TECHNO INSTITUTE OF ENGINEERING AND MANAGEMENT,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2673,2673
+637,Round 1,BRAINWARE UNIVERSITY,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1600,2193
+638,Round 1,BRAINWARE UNIVERSITY,Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2090,2090
+639,Round 1,TARIFA MEMORIAL INSTITUTE OF PHARMACY,B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,30,200
+640,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1176,1176
+641,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,625,625
+642,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,630,630
+643,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1535,1535
+644,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1438,1438
+645,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,531,541
+646,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open (PwD),2504,2504
+647,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,715,744
+648,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1598,1943
+649,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1082,1082
+650,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1939,1939
+651,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,922,956
+652,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open (PwD),3904,3904
+653,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1170,1282
+654,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,1969,1969
+655,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1562,1749
+656,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1885,1885
+657,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,660,765
+658,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1669,1857
+659,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1161,1161
+660,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,4378,4378
+661,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,962,976
+662,Round 2,"COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE, COOCH BEHAR",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1254,1340
+663,Round 2,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,784,784
+664,Round 2,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1496,1496
+665,Round 2,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,542,558
+666,Round 2,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,990,990
+667,Round 2,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,614,614
+668,Round 2,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1650,1650
+669,Round 2,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,411,458
+670,Round 2,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,800,800
+671,Round 2,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Leather Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,3298,3298
+672,Round 2,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Leather Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,2106,2840
+673,Round 2,"GOVERMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY, KOLKATA",Leather Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,3126,3581
+674,Round 2,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,585,585
+675,Round 2,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,732,732
+676,Round 2,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,815,979
+677,Round 2,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1263,1263
+678,Round 2,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1710,1710
+679,Round 2,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,832,835
+680,Round 2,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Textile Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,2238,2536
+681,Round 2,"GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, BERHAMPORE",Textile Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2773,2773
+682,Round 2,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,796,796
+683,Round 2,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,322,438
+684,Round 2,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,748,748
+685,Round 2,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,291,291
+686,Round 2,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,770,770
+687,Round 2,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,253,253
+688,Round 2,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,505,505
+689,Round 2,"GOVT. COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY, KOLKATA",CERAMIC ENGINEERING AND TECHNOLOGY,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1184,1184
+690,Round 2,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,895,950
+691,Round 2,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,633,721
+692,Round 2,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1318,1360
+693,Round 2,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,476,569
+694,Round 2,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1133,1133
+695,Round 2,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Textile Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,866,866
+696,Round 2,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Apparel & Production Management,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,2122,2240
+697,Round 2,"GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY, SERAMPORE",Apparel & Production Management,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,3235,3478
+698,Round 2,"INSTITUTE OF PHARMACY, JALPAIGURI",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,Home State,Open,24,24
+699,Round 2,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,576,576
+700,Round 2,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,212,212
+701,Round 2,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,308,308
+702,Round 2,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,281,299
+703,Round 2,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,335,335
+704,Round 2,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,330,330
+705,Round 2,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,229,229
+706,Round 2,"JALPAIGURI GOVERMENT ENGINEERING COLLEGE,JALPAIGURI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,375,375
+707,Round 2,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,169,193
+708,Round 2,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,294,347
+709,Round 2,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,295,295
+710,Round 2,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,473,473
+711,Round 2,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1135,1636
+712,Round 2,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,300,302
+713,Round 2,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,586,586
+714,Round 2,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,75,75
+715,Round 2,"KALYANI GOVERMENT ENGINEERING COLLEGE, KALYANI, NADIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,728,728
+716,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1117,1215
+717,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,795,795
+718,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,705,738
+719,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,863,1063
+720,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,3786,3786
+721,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,601,601
+722,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,883,969
+723,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,1383,1383
+724,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,3227,4190
+725,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,2559,2559
+726,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,999,1050
+727,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1891,2167
+728,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1228,1228
+729,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1999,1999
+730,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1220,1220
+731,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,3203,3203
+732,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,933,1017
+733,Round 2,"RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE, PURULIA",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1332,1546
+734,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1102,1416
+735,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2000,2000
+736,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1652,1652
+737,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1582,1995
+738,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,2838,2838
+739,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1502,2022
+740,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,3294,4442
+741,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,2029,2269
+742,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,4065,4065
+743,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2191,2342
+744,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Food Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3173,3988
+745,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Food Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,4434,4434
+746,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Civil And Environmental Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1989,2735
+747,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Civil And Environmental Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,3088,4110
+748,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Civil And Environmental Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,2948,3883
+749,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Civil And Environmental Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,3031,3596
+750,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,977,1008
+751,Round 2,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, MALDA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1584,1584
+752,Round 2,"ACADEMY OF TECHNOLOGY, ADISAPTAGRAM, HOOGHLY",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4309,4309
+753,Round 2,"BCDA COLLEGE OF PHARMACY & TECHNOLOGY, HRIDAYPUR, MADHYAMGRAM",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,269,326
+754,Round 2,"DR. B. C. ROY COLLEGE OF PHARMACY AND ALLIED HEALTH SCIENCES, DURGAPUR",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,412,600
+755,Round 2,"GUPTA COLLEGE OF TECHNOLOGICAL SCIENCES, ASANSOL, BURDWAN",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,413,413
+756,Round 2,"GURU NANAK INSTITUTE OF PHARMACEUTICAL SCIENCE AND TECHNOLOGY, SODEPUR",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,273,458
+757,Round 2,"GURU NANAK INSTITUTE OF TECHNOLOGY, PANIHATI, SODEPUR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3986,3986
+758,Round 2,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2193,2193
+759,Round 2,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4419,4450
+760,Round 2,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4499,4499
+761,Round 2,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Chemical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2780,2780
+762,Round 2,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1954,2383
+763,Round 2,"HALDIA INSTITUTE OF TECHNOLOGY, HALDIA, PURBA MEDINIPUR",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4670,4670
+764,Round 2,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3306,4527
+765,Round 2,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2119,2506
+766,Round 2,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1459,1740
+767,Round 2,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2249,3751
+768,Round 2,"HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA",Computer Science & Engineering (Data Science),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3788,4346
+769,Round 2,"MCKV INSTITUTE OF ENGINEERING, LILUAH, HOWRAH",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,4085,4285
+770,Round 2,"NARULA INSTITUTE OF TECHNOLOGY, AGARPARA, KOLKATA",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2887,3150
+771,Round 2,"NSHM KNOWLEDGE CAMPUS, KOLKATA GROUP OF INSTITUTIONS, KOLKATA",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,479,579
+772,Round 2,"SILIGURI INSTITUTE OF TECHNOLOGY, SILIGURI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2959,2959
+773,Round 2,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3928,4093
+774,Round 2,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2964,2964
+775,Round 2,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1334,1515
+776,Round 2,"TECHNO MAIN SALT LAKE, SECTOR-V, SALT LAKE",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,3872,3877
+777,Round 2,"SCHOOL OF PHARMACY, TECHNO INDIA UNIVERSITY, SALT LAKE",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,589,619
+778,Round 2,"BIDHAN CHANDRA KRISHI VISWA VIDYALAYA, MOHANPUR, NADIA",Agricultural Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1704,1752
+779,Round 2,"BIDHAN CHANDRA KRISHI VISWA VIDYALAYA, MOHANPUR, NADIA",Agricultural Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2365,2525
+780,Round 2,Jadavpur University,Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,459,459
+781,Round 2,Jadavpur University,Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,62,62
+782,Round 2,Jadavpur University,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,204,204
+783,Round 2,Jadavpur University,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,1124,1124
+784,Round 2,Jadavpur University,Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,138,138
+785,Round 2,Jadavpur University,Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,91,91
+786,Round 2,Jadavpur University,Mechanical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,860,860
+787,Round 2,Jadavpur University,Electronics & Tele-Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,271,271
+788,Round 2,Jadavpur University,PRINTING ENGINEERING,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,225,225
+789,Round 2,Jadavpur University,PRINTING ENGINEERING,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,709,709
+790,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,986,1169
+791,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1803,2024
+792,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1344,1344
+793,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1851,1851
+794,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,679,727
+795,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1353,1551
+796,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,3364,3364
+797,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1310,1310
+798,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1369,1758
+799,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2691,2863
+800,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,2028,2028
+801,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,3177,3303
+802,Round 2,"MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL",ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,3271,3271
+803,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1397,1951
+804,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2512,3204
+805,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,2082,2082
+806,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1979,2368
+807,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,ST,3169,3169
+808,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1428,1567
+809,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2038,2378
+810,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,1920,1920
+811,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1628,1635
+812,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1273,1404
+813,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2903,2903
+814,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1708,1708
+815,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,983,983
+816,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,1328,1328
+817,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1495,1495
+818,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1486,1514
+819,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2992,2992
+820,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Applied Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2344,3026
+821,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Applied Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,3170,3170
+822,Round 2,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Applied Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,4090,4238
+823,Round 2,UNIVERSITY OF CALCUTTA,Jute & Fibre Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,2552,3046
+824,Round 2,UNIVERSITY OF CALCUTTA,Jute & Fibre Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,3961,4203
+825,Round 2,"UNIVERSITY OF KALYANI, KALYANI",Information Technology,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1946,1946
+826,Round 2,"UNIVERSITY OF KALYANI, KALYANI",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,671,821
+827,Round 2,"UNIVERSITY OF KALYANI, KALYANI",Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,2132,2132
+828,Round 2,"UNIVERSITY OF KALYANI, KALYANI",Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,380,380
+829,Round 2,"UNIVERSITY OF KALYANI, KALYANI",Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,1379,1379
+830,Round 2,"UNIVERSITY OF KALYANI, KALYANI",Electronics And Instrumentation Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1165,1165
+831,Round 2,"FACULTY OF TECHNOLOGY, UTTAR BANGA KRISHI VISWAVIDYALAYA",Agricultural Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1427,1852
+832,Round 2,"KAJI NAZRUL UNIVERSITY, ASANSOL",Mining Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2092,2092
+833,Round 2,"KAJI NAZRUL UNIVERSITY, ASANSOL",Metallurgical And Materials Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,2076,2541
+834,Round 2,"KAJI NAZRUL UNIVERSITY, ASANSOL",Metallurgical And Materials Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - B,2822,2822
+835,Round 2,"KAJI NAZRUL UNIVERSITY, ASANSOL",Metallurgical And Materials Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,3402,3451
+836,Round 2,"KAJI NAZRUL UNIVERSITY, ASANSOL",Computer Science & Engineering (Data Science),B.E./B. Tech (Lateral Entry),WBJEE Seats,All India,Open,1426,1426
+837,Round 2,"KAJI NAZRUL UNIVERSITY, ASANSOL",Computer Science & Engineering (Data Science),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,2624,2624
+838,Round 2,"HALDIA INSTITUTE OF PHARMACY, HALDIA",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,392,407
+839,Round 2,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2079,2079
+840,Round 2,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,901,946
+841,Round 2,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electrical Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1104,1189
+842,Round 2,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,2907,2907
+843,Round 2,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Computer Science & Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,833,833
+844,Round 2,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,OBC - A,2576,2576
+845,Round 2,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,1076,1250
+846,Round 2,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electronics & Communication Engineering,B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1386,1553
+847,Round 2,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,ARTIFICIAL INTELLIGENCE (AI),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,EWS,3020,3020
+848,Round 2,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,ARTIFICIAL INTELLIGENCE (AI),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,Open,1028,1028
+849,Round 2,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,ARTIFICIAL INTELLIGENCE (AI),B.E./B. Tech (Lateral Entry),WBJEE Seats,Home State,SC,1372,1372
+850,Round 2,"BCDA COLLEGE OF PHARMACY & TECHNOLOGY, CAMPUS-2",B.Pharm/Pharmaceutical Technology,B. Pharma (Lateral Entry),WBJEE Seats,All India,Open,327,432`;

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JELET Rank Predictor</title>
+  <meta name="description" content="JELET college predictor using OR-CR cutoff data. Check possible colleges by GMR rank, category, branch and round." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="container nav">
+      <div class="brand"><div class="logo">J</div><div><h1>JELET Rank Predictor</h1><p>OR-CR based college chance checker</p></div></div>
+      <button id="themeToggle" class="btn ghost" type="button">🌙 Dark</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero card">
+      <div><span class="pill">Static site ready</span><h2>Find possible colleges by GMR rank and category</h2><p>Enter only GMR rank + category. Branch and round filters are optional.</p></div>
+      <div class="hero-stats"><div><strong id="totalData">0</strong><span>Total Cutoffs</span></div><div><strong>2025</strong><span>OR-CR Data</span></div></div>
+    </section>
+
+    <section class="card controls">
+      <div class="grid">
+        <label>Enter GMR Rank<input id="rankInput" type="number" placeholder="Example: 12845" min="1" /></label>
+        <label>Category<select id="categorySelect"><option value="">Loading categories...</option></select></label>
+        <label>Branch Filter<select id="branchSelect"><option value="">Loading branches...</option></select></label>
+        <label>Round Filter<select id="roundSelect"><option value="">Loading rounds...</option></select></label>
+      </div>
+      <label class="search-label">Search College / Branch<input id="searchInput" type="search" placeholder="Example: Jadavpur, CSE, IT, Kalyani" /></label>
+      <div class="actions">
+        <button id="checkBtn" class="btn primary" type="button">Check Colleges</button>
+        <button id="resetBtn" class="btn" type="button">Reset</button>
+        <button id="pdfBtn" class="btn" type="button">Export PDF</button>
+        <button id="csvBtn" class="btn" type="button">Export CSV</button>
+      </div>
+      <p class="tip" id="loadStatus">Loading cutoff data...</p>
+    </section>
+
+    <section class="summary-grid">
+      <div class="summary card"><span>Total Matches</span><strong id="matchCount">0</strong></div>
+      <div class="summary card safe"><span>Safe</span><strong id="safeCount">0</strong></div>
+      <div class="summary card moderate"><span>Moderate</span><strong id="moderateCount">0</strong></div>
+      <div class="summary card risky"><span>Risky</span><strong id="riskyCount">0</strong></div>
+    </section>
+
+    <section class="result-header"><h3>Prediction Results</h3><div class="view-actions"><button id="cardViewBtn" class="small active" type="button">Cards</button><button id="tableViewBtn" class="small" type="button">Table</button></div></section>
+    <section id="emptyState" class="card empty"><h3>Enter your rank and category to start</h3><p>Your results will show college, branch, round, category, opening rank, closing rank and chance level.</p></section>
+    <section id="cardsContainer" class="cards"></section>
+    <section id="tableContainer" class="card table-wrap hidden"><table><thead><tr><th>Chance</th><th>Round</th><th>College</th><th>Branch</th><th>Category</th><th>OR</th><th>CR</th><th>Quota</th><th>Save</th></tr></thead><tbody id="tableBody"></tbody></table></section>
+    <section class="card note"><strong>Disclaimer:</strong> This is based on previous OR-CR cutoff data only. Admission is not guaranteed.</section>
+  </main>
+  <footer class="footer">Made for JELET aspirants • GitHub Pages / Render Static Site ready</footer>
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
