@@ -1,16 +1,19 @@
-JELET Rank Predictor Website
+# JELET Rank Predictor
 
-How to run:
-1. Extract this folder.
-2. Open index.html in Chrome.
-3. Enter GMR rank and category.
-4. It will show possible colleges based on your local OR-CR data.
+Static JELET college predictor using local OR-CR cutoff data.
 
-Files:
-- index.html: main website
-- data.js: cutoff data used by the website
-- cutoffs.csv: your cleaned source data
+## Files
+- `index.html` - main page
+- `style.css` - design
+- `script.js` - predictor logic
+- `data.js` - embedded CSV fallback so local opening works
+- `cutoffs.csv` - source cutoff data
 
-To update data:
-1. Replace cutoffs.csv with new official OR-CR CSV.
-2. Re-create data.js from CSV, or ask ChatGPT to regenerate this folder.
+## Render Deployment
+Choose **Static Site**.
+
+- Build Command: leave blank or `echo no build`
+- Publish Directory: `.`
+
+## Update Data
+Replace `cutoffs.csv`, then regenerate `data.js` from the CSV if you also want local file opening to work without a server.
